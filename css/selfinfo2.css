@@ -1,0 +1,77 @@
+body{
+    font-family: ヒラギノ丸ゴシック;
+    font-weight: bold;
+    color: rgb(112, 126, 127);
+}
+
+.theme{
+    margin: auto;
+    padding: 2px 20px 2px 20px;
+    box-shadow: 1px 3px 3px 1px rgb(210, 206, 206);
+    width: 900px;
+}
+
+.content{
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 1px 3px 3px 1px rgb(210, 206, 206);
+    width: 900px;
+    background-color: rgb(234, 255, 255);
+}
+
+
+/*上段落（始）*/
+.top{
+    display: flex;
+}
+
+.coffee{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 60px 20px 20px;
+    box-shadow: 1px 3px 3px 1px rgb(210, 206, 206);
+    width: 300px;
+    background-color: rgb(255, 252, 252);
+}
+.kinds{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 60px 20px 20px;
+    box-shadow: 1px 3px 3px 1px rgb(210, 206, 206);
+    width: 400px;
+    background-color: rgb(255, 252, 252);
+}
+/*上段落（終）*/
+
+
+/*下段落（始）*/
+.bottom{
+    display: flex;
+}
+
+.fun{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 1px 3px 3px 1px rgb(210, 206, 206);
+    width: 500px;
+    background-color: rgb(255, 252, 252);
+}
+
+.cof{
+    width: 300px;
+    height: 255px;
+}
+/*下段落（始）*/
+
+
+span{
+    font-size: 12px;
+    color:  rgb(72, 80, 81);
+}
+
+h2{
+    border-bottom: 3px solid  rgb(112, 126, 127);
+}
+
+.url{
+    font-size: 11px;
+    margin: 0px 0px 0px 210px;
+}
